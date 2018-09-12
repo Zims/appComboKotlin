@@ -144,6 +144,8 @@
         android:background="@drawable/rounded"
         android:textColor="@android:color/white"
         android:text="@string/back"
+
+
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
