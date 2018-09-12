@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
             var intent = Intent(this, dice::class.java)
             startActivity(intent)
         }
-
-       
+            var intent = Intent(this, music::class.java)
+            startActivity(intent)
     }
 }
