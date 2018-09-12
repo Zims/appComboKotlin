@@ -16,5 +16,7 @@ class MainActivity : AppCompatActivity() {
             var intent = Intent(this, dice::class.java)
             startActivity(intent)
         }
+
+       
     }
 }
